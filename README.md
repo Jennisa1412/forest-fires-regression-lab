@@ -1,2 +1,2 @@
 # forest-fires-regression-lab
-End-to-end Forest Fires ML: EDA, linear &amp; regularized regression, logistic baseline; VIF &amp; Cook’s D. Summary in ForestFires_Findings.md.
+This repo analyzes the UCI Forest Fires dataset with EDA, OLS (plus nonlinear/interaction terms), Ridge/Lasso, and a logistic classifier; diagnostics include Q–Q plots, VIF, and Cook’s Distance, with results summarized in ForestFires_Findings.md.
